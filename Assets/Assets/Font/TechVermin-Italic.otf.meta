@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c53a7d410c52e1946baf1a12977627e4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - LOF TechVermin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 771b5991081eb084dbf595eed4f87bff, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
